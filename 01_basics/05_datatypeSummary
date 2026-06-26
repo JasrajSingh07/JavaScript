@@ -1,0 +1,14 @@
+Return type of variables in JavaScript
+1) Primitive Datatypes-> pass by value 
+       Number => number
+       String  => string
+       Boolean  => boolean
+       null  => object
+       undefined  =>  undefined
+       Symbol  =>  symbol
+       BigInt  =>  bigint
+
+2) Non-primitive Datatypes-> pass by reference
+       Arrays  =>  object
+       Function  =>  function
+       Object  =>  object
